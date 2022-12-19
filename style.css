@@ -1,0 +1,11 @@
+body {
+    background: rgb(174, 238, 230);
+    background: radial-gradient(circle, rgba(174, 238, 230, 1) 0%, rgba(148, 233, 176, 1) 50%, rgba(48, 187, 141, 1) 100%);
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background: whitesmoke;
+    width: 500px;
+    font-size: 40px;
+}
